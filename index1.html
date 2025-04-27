@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8">
+  <title>Тренажёр памяти для набора текста</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      text-align: center;
+    }
+    #phrase, #inputField {
+      font-size: 24px;
+      margin-top: 20px;
+    }
+    #inputField {
+      display: none;
+      width: 80%;
+      padding: 10px;
+    }
+    .error {
+      background-color: #ffcccc;
+    }
+    #errorCounter, #hintField {
+      margin-top: 10px;
+      font-size: 18px;
+      color: red;
+    }
+  </style>
+</head>
+<body>
+
+<h1>Тренажёр памяти для набора текста</h1>
+
+<select id="phraseList">
+  <option value="">-- Выберите фразу --</option>
+</select><br><br>
+<button onclick="startExercise()">Начать</button>
+<button onclick="showPhraseList()">Показать список фраз</button>
+
+<div id="phrase"></div>
+<input type="text" id="inputField" oninput="checkInput()" autocomplete="off">
+<div id="errorCounter">Ошибки: 0</div>
+<div id="hintField"></div>
+
+<audio id="beep">
+  <source src="https://actions.google.com/sounds/v1/alarms/beep_short.ogg" type="audio/ogg">
+</audio>
+<audio id="success">
+  <source src="https://actions.google.com/sounds/v1/cartoon/clang_and_wobble.ogg" type="audio/ogg">
+</audio>
+
+<script>
+let originalText = "";
+let exerciseStarted = false;
+let errorCount = 0;
+
+function loadPhrases() {
+  fetch('phrases.txt')
+    .then(response => response.text())
+    .then(data => {
+      const phrases = data.split('\n').filter(line => line.trim() !== "");
+      const phraseList = document.getElementById('phraseList');
+      phrases.forEach(phrase => {
+        const option = document.createElement('option');
+        option.value = phrase.trim();
+        option.textContent = phrase.trim();
+        phraseList.appendChild(option);
+      });
+    })
+    .catch(error => {
+      console.error('Ошибка загрузки фраз:', error);
+    });
+}
+
+function startExercise() {
+  const selectedPhrase = document.getElementById('phraseList').value;
+  if (!selectedPhrase) {
+    alert("Пожалуйста, выберите фразу.");
+    return;
+  }
+  originalText = selectedPhrase.trim();
+  document.getElementById('phrase').innerText = originalText;
+  document.getElementById('inputField').value = "";
+  document.getElementById('inputField').classList.remove("error");
+  document.getElementById('inputField').style.display = "none";
+  document.getElementById('errorCounter').innerText = "Ошибки: 0";
+  document.getElementById('hintField').innerText = "";
+  errorCount = 0;
+  exerciseStarted = false;
+
+  setTimeout(() => {
+    document.getElementById('phrase').innerText = "";
+    document.getElementById('inputField').style.display = "inline-block";
+    document.getElementById('inputField').focus();
+  }, 5000);
+}
+
+function checkInput() {
+  if (!exerciseStarted) {
+    document.getElementById('phrase').innerText = "";
+    document.getElementById('phraseList').style.display = "none";
+    exerciseStarted = true;
+  }
+
+  const input = document.getElementById('inputField').value;
+  const expected = originalText.substring(0, input.length);
+
+  if (input !== expected) {
+    document.getElementById('inputField').classList.add("error");
+    document.getElementById('beep').play();
+    errorCount++;
+    document.getElementById('errorCounter').innerText = `Ошибки: ${errorCount}`;
+    const hintChar = originalText.charAt(input.length - 1);
+    document.getElementById('hintField').innerText = `Подсказка: следующая буква "${hintChar}"`;
+  } else {
+    document.getElementById('inputField').classList.remove("error");
+    document.getElementById('hintField').innerText = "";
+    if (input === originalText) {
+      document.getElementById('success').play();
+    }
+  }
+}
+
+function showPhraseList() {
+  document.getElementById('phraseList').style.display = "inline-block";
+}
+
+window.onload = loadPhrases;
+</script>
+
+</body>
+</html>
