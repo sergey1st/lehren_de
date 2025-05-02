@@ -39,7 +39,7 @@
   <option value="">-- Выберите фразу --</option>
 </select><br><br>
 <button onclick="startExercise()">Начать</button>
-<button onclick="showPhraseList()">Показать список фраз</button>
+
 
 <div id="phrase"></div>
 <input type="text" id="inputField" oninput="checkInput()" autocomplete="off">
@@ -109,7 +109,7 @@ function checkInput() {
   const inputField = document.getElementById('inputField');
   if (!exerciseStarted) {
     document.getElementById('phrase').innerText = "";
-    document.getElementById('phraseList').style.display = "none";
+    #document.getElementById('phraseList').style.display = "none";
     exerciseStarted = true;
   }
 
