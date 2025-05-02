@@ -2,30 +2,3 @@ Sehr geehrte Damen und Herren,;Уважаемые дамы и господа,
 Sehr geehrte Frau Müller,;Уважаемая госпожа Мюллер,
 Sehr geehrter Herr Müller,;Уважаемый господин Мюллер,
 Ich schreibe Ihnen, weil ...;Я пишу Вам, потому что ...
-Ich habe Produkt erhalten und möchte mich dazu äußern.;Я получил(а) продукт и хочу высказаться по этому поводу.
-Ich habe Produkt gekauft und möchte mich dazu äußern.;Я купил(а) продукт и хочу высказаться по этому поводу.
-Ich habe Produkt gebucht und möchte mich dazu äußern.;Я забронировал(а) продукт и хочу высказаться по этому поводу.
-Leider bin ich nicht zufrieden, weil ...;К сожалению, я недоволен(на), потому что ...
-Ich habe bemerkt, dass ...;Я заметил(а), что ...
-Es funktioniert nicht richtig.;Это не работает правильно.
-Das Produkt entspricht nicht meiner Erwartung.;Продукт не соответствует моим ожиданиям.
-Ich bitte Sie um Ersatz;Я прошу Вас о замене
-Ich bitte Sie um Rückerstattung;Я прошу Вас о возврате денег
-Ich möchte das Produkt zurücksenden und mein Geld zurückbekommen.;Я хочу отправить продукт обратно и получить свои деньги назад.
-Bitte schlagen Sie mir eine Lösung vor.;Пожалуйста, предложите мне решение.
-Bitte kontaktieren Sie mich unter meiner E-Mail-Adresse:;Пожалуйста, свяжитесь со мной по моему адресу электронной почты:
-Ich danke Ihnen im Voraus für Ihre Hilfe.;Я благодарю Вас заранее за Вашу помощь.
-Ich freue mich auf Ihre Antwort.;Я с нетерпением жду Вашего ответа.
-Mit freundlichen Grüßen;С уважением
-Ich bin enttäuscht, weil ...;Я разочарован(а), потому что ...
-Ich hoffe auf eine schnelle Lösung.;Я надеюсь на быстрое решение.
-Vielen Dank für Ihr Verständnis.;Большое спасибо за Ваше понимание.
-Vielen Dank für Ihre Nachricht.;Спасибо за Ваше сообщение.
-Je länger ich auf Ihre Antwort warten muss, desto größer wird die Wahrscheinlichkeit, dass Sie meinen Anwalt kennenlernen, denn meine Geduld ist nicht unbegrenzt.;Чем дольше мне придется ждать вашего ответа, тем больше вероятность, что вы встретитесь с моим адвокатом, поскольку мое терпение не безгранично.
-Natürlich helfe ich dir gern.;Конечно, я с радостью помогу Тебе.
-Leider habe ich keine Zeit.;К сожалению, у меня нет времени.
-Ich möchte mich entschuldigen.;Я хочу извиниться.
-Ich habe eine Frage: …;У меня есть вопрос: …
-Bitte gib mir Bescheid.;Пожалуйста, сообщи мне.
-Ich freue mich auf deine Antwort.;Жду твоего ответа.
-
