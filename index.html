@@ -29,6 +29,11 @@
       font-size: 18px;
       color: red;
     }
+    #instruction {
+      margin-top: 20px;
+      font-size: 16px;
+      text-align: left;
+    }
   </style>
 </head>
 <body>
@@ -53,6 +58,19 @@
 <audio id="success">
   <source src="https://actions.google.com/sounds/v1/cartoon/clang_and_wobble.ogg" type="audio/ogg">
 </audio>
+
+<div id="instruction">
+  <h2>Инструкция</h2>
+  <p><strong>1. Выбор фразы</strong><br>В выпадающем списке выберите фразу на русском языке — она будет соответствовать немецкому оригиналу, который нужно будет набрать.</p>
+  <p><strong>2. Начало тренировки</strong><br>Нажмите кнопку <strong>Начать</strong>. Немецкая фраза появится на 5 секунд, затем исчезнет, и начнётся ввод.</p>
+  <p><strong>3. Ввод фразы</strong><br>Начните вводить фразу на немецком языке:<br>
+    - При каждой ошибке звучит сигнал и отображается подсказка — правильная следующая буква.<br>
+    - Ведётся счётчик ошибок.<br>
+    - При правильном вводе всей фразы поле окрашивается в светло-зелёный цвет и проигрывается другой звук.
+  </p>
+  <p><strong>4. Повторный выбор фразы</strong><br>После завершения упражнения обновите страницу, чтобы снова выбрать фразу (или можете самостоятельно включить возможность выбора в коде).</p>
+</div>
+
 <script>
 let originalText = "";
 let exerciseStarted = false;
@@ -88,7 +106,7 @@ function startExercise() {
     alert("Пожалуйста, выберите фразу.");
     return;
   }
-  phraseList.disabled = true;
+  #phraseList.disabled = true;
 
   originalText = phraseMap.get(selectedRussian);
   document.getElementById('phrase').innerText = originalText;
