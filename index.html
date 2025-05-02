@@ -35,23 +35,32 @@
 
 <h1>Тренировка фраз для письма B1</h1>
 
-<select id="phraseList">
-  <option value="">-- Выберите фразу --</option>
-</select><br><br>
-<button onclick="startExercise()">Начать</button>
+<div id="controls">
+  <select id="phraseList">
+    <option value="">-- Выберите фразу --</option>
+  </select>
+  <button onclick="startExercise()">Начать</button>
+</div>
 
 <div id="phrase"></div>
 <input type="text" id="inputField" oninput="checkInput()" autocomplete="off">
 <div id="errorCounter">Ошибки: 0</div>
 <div id="hintField"></div>
+<div id help>
+<h3>Инструкция по использованию тренажёра фраз для письма B1</h3>
+<p>1. <strong>Выбор фразы</strong><br>В выпадающем списке выберите фразу на русском языке — она будет соответствовать немецкому оригиналу, который нужно будет набрать.</p>
+<p>2. <strong>Начало тренировки</strong><br>Нажмите кнопку <strong>Начать</strong>. Немецкая фраза появится на 5 секунд, затем исчезнет, и начнётся ввод.</p>
+<p>3. <strong>Ввод фразы</strong><br>Начните вводить фразу на немецком языке:<br>- При каждой ошибке звучит сигнал и отображается подсказка — правильная следующая буква.<br>- Ведётся счётчик ошибок.<br>- При правильном вводе всей фразы поле окрашивается в светло-зелёный цвет и проигрывается другой звук.</p>
+<p>4. <strong>Повторный выбор фразы</strong><br>После завершения упражнения обновите страницу, чтобы снова выбрать фразу (или можете самостоятельно включить возможность выбора в коде).</p>
 
+  
+</div>
 <audio id="beep">
   <source src="https://actions.google.com/sounds/v1/alarms/beep_short.ogg" type="audio/ogg">
 </audio>
 <audio id="success">
   <source src="https://actions.google.com/sounds/v1/cartoon/clang_and_wobble.ogg" type="audio/ogg">
 </audio>
-
 <script>
 let originalText = "";
 let exerciseStarted = false;
@@ -81,11 +90,14 @@ function loadPhrases() {
 }
 
 function startExercise() {
-  const selectedRussian = document.getElementById('phraseList').value;
+  const phraseList = document.getElementById('phraseList');
+  const selectedRussian = phraseList.value;
   if (!selectedRussian) {
     alert("Пожалуйста, выберите фразу.");
     return;
   }
+  phraseList.disabled = true;
+
   originalText = phraseMap.get(selectedRussian);
   document.getElementById('phrase').innerText = originalText;
   const inputField = document.getElementById('inputField');
@@ -108,7 +120,6 @@ function checkInput() {
   const inputField = document.getElementById('inputField');
   if (!exerciseStarted) {
     document.getElementById('phrase').innerText = "";
-    #document.getElementById('phraseList').style.display = "none";
     exerciseStarted = true;
   }
 
@@ -132,7 +143,6 @@ function checkInput() {
     }
   }
 }
-
 
 window.onload = loadPhrases;
 </script>
