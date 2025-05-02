@@ -27,5 +27,5 @@ Leider habe ich keine Zeit.;К сожалению, у меня нет време
 Ich möchte mich entschuldigen.;Я хочу извиниться.
 Ich habe eine Frage: …;У меня есть вопрос: …
 Bitte gib mir Bescheid.;Пожалуйста, сообщи мне.
-Ich freue mich auf deine / Ihre Antwort.;Жду твоего / Вашего ответа.
+Ich freue mich auf deine Antwort.;Жду твоего ответа.
 
