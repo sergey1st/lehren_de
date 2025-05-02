@@ -21,6 +21,9 @@
     .error {
       background-color: #ffcccc;
     }
+    .success {
+      background-color: #ccffcc;
+    }
     #errorCounter, #hintField {
       margin-top: 10px;
       font-size: 18px;
@@ -86,9 +89,10 @@ function startExercise() {
   }
   originalText = phraseMap.get(selectedRussian);
   document.getElementById('phrase').innerText = originalText;
-  document.getElementById('inputField').value = "";
-  document.getElementById('inputField').classList.remove("error");
-  document.getElementById('inputField').style.display = "none";
+  const inputField = document.getElementById('inputField');
+  inputField.value = "";
+  inputField.classList.remove("error", "success");
+  inputField.style.display = "none";
   document.getElementById('errorCounter').innerText = "Ошибки: 0";
   document.getElementById('hintField').innerText = "";
   errorCount = 0;
@@ -96,32 +100,35 @@ function startExercise() {
 
   setTimeout(() => {
     document.getElementById('phrase').innerText = "";
-    document.getElementById('inputField').style.display = "inline-block";
-    document.getElementById('inputField').focus();
+    inputField.style.display = "inline-block";
+    inputField.focus();
   }, 5000);
 }
 
 function checkInput() {
+  const inputField = document.getElementById('inputField');
   if (!exerciseStarted) {
     document.getElementById('phrase').innerText = "";
     document.getElementById('phraseList').style.display = "none";
     exerciseStarted = true;
   }
 
-  const input = document.getElementById('inputField').value;
+  const input = inputField.value;
   const expected = originalText.substring(0, input.length);
 
   if (input !== expected) {
-    document.getElementById('inputField').classList.add("error");
+    inputField.classList.add("error");
+    inputField.classList.remove("success");
     document.getElementById('beep').play();
     errorCount++;
     document.getElementById('errorCounter').innerText = `Ошибки: ${errorCount}`;
     const hintChar = originalText.charAt(input.length - 1);
     document.getElementById('hintField').innerText = `Подсказка: следующая буква "${hintChar}"`;
   } else {
-    document.getElementById('inputField').classList.remove("error");
+    inputField.classList.remove("error");
     document.getElementById('hintField').innerText = "";
     if (input === originalText) {
+      inputField.classList.add("success");
       document.getElementById('success').play();
     }
   }
