@@ -20,3 +20,4 @@ Mit freundlichen Grüßen;С уважительными приветствиям
 Ich bin enttäuscht, weil...;Я разочарован(а), потому что ...
 Ich hoffe auf eine schnelle Lösung.;Я надеюсь на быстрое решение.
 Vielen Dank für Ihr Verständnis.;Большое спасибо за Ваше понимание.
+Je länger ich auf Ihre Antwort warten muss, desto größer wird die Wahrscheinlichkeit, dass Sie meinen Anwalt kennenlernen, denn meine Geduld ist nicht unbegrenzt.;Чем дольше мне придется ждать вашего ответа, тем больше вероятность, что вы встретитесь с моим адвокатом, поскольку мое терпение не безгранично.
