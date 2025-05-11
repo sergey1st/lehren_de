@@ -28,3 +28,8 @@ Ich möchte mich entschuldigen.;Я хочу извиниться.
 Ich habe eine Frage: …;У меня есть вопрос: …
 Bitte gib mir Bescheid.;Пожалуйста, сообщи мне.
 Ich freue mich auf deine Antwort.;Жду твоего ответа.
+***;***
+Ich möchte mich über alle Möglichkeiten erkundigen.;Я хотел узнать обо всех возможностях.
+Sag mir bitte Bescheid, wie ich den Schlüssel bekomme.;Пожалуйста, дайте мне знать, как я могу получить ключ.
+Was soll ich mit deinen Pflanzen machen?;Что мне делать с вашими растениями?
+Sag mir einfach Bescheid, ob das für dich passt.;Просто дайте мне знать, если это вам подходит.
