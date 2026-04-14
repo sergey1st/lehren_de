@@ -59,7 +59,7 @@ let errorCount = 0;
 const phraseMap = new Map();
 
 function loadPhrases() {
-  fetch('phrasesv2.txt')
+  fetch('b01.txt')
     .then(response => response.text())
     .then(data => {
       const lines = data.split('\n').filter(line => line.trim() !== "");
