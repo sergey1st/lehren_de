@@ -1,0 +1,1658 @@
+BEGIN:VCALENDAR
+PRODID:-//github.com/ical-org/ical.net//NONSGML ical.net 4.0//EN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:W. Europe Standard Time
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:STANDARD
+DTSTART:20241027T030000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=10
+TZNAME:CET
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:20250330T020000
+RRULE:FREQ=YEARLY;BYDAY=-1SU;BYMONTH=3
+TZNAME:CEST
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260430
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L
+UID:26607-30.04.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L<
+ /title>\n                </head>\n                <body>\n               
+      <h1>Leerung Fraktionen/Behälter: Gelbe Tonne 240 L \, Gelbe Tonne 11
+ 00 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a href="https://ahkweb.
+ heidekreis.de/entskalender/26607">https://ahkweb.heidekreis.de/entskalend
+ er/26607</a></p>\n                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L am 30.04.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260505
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-05.05.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 05.05.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260508
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L
+UID:26607-08.05.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Restabfalltonne 60 L\, Restabfalltonne 1
+ 20 L\, AHS RM 660 L</title>\n                </head>\n                <bo
+ dy>\n                    <h1>Leerung Fraktionen/Behälter: Restabfalltonne
+  60 L\, Restabfalltonne 120 L\, AHS RM 660 L</h1>\n<p>Zum aktuellen Entso
+ rgungskalender: <a href="https://ahkweb.heidekreis.de/entskalender/26607"
+ >https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n               
+  </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L am 08.05.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260515
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 1100 L
+UID:26607-15.05.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 1100 L</title>\n            
+     </head>\n                <body>\n                    <h1>Leerung Frak
+ tionen/Behälter: Gelbe Tonne 1100 L</h1>\n<p>Zum aktuellen Entsorgungskal
+ ender: <a href="https://ahkweb.heidekreis.de/entskalender/26607">https://
+ ahkweb.heidekreis.de/entskalender/26607</a></p>\n                </body>\
+ n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Gelbe Tonne 1100 L am 15.05.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260519
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-19.05.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 19.05.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260522
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Papier 240 L
+UID:26607-22.05.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Papier 240 L</title>\n                </
+ head>\n                <body>\n                    <h1>Leerung Fraktionen
+ /Behälter: Papier 240 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a hr
+ ef="https://ahkweb.heidekreis.de/entskalender/26607">https://ahkweb.heide
+ kreis.de/entskalender/26607</a></p>\n                </body>\n           
+      </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Papier 240 L am 22.05.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260529
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L
+UID:26607-29.05.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L<
+ /title>\n                </head>\n                <body>\n               
+      <h1>Leerung Fraktionen/Behälter: Gelbe Tonne 240 L \, Gelbe Tonne 11
+ 00 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a href="https://ahkweb.
+ heidekreis.de/entskalender/26607">https://ahkweb.heidekreis.de/entskalend
+ er/26607</a></p>\n                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L am 29.05.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260602
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-02.06.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 02.06.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260605
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L
+UID:26607-05.06.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Restabfalltonne 60 L\, Restabfalltonne 1
+ 20 L\, AHS RM 660 L</title>\n                </head>\n                <bo
+ dy>\n                    <h1>Leerung Fraktionen/Behälter: Restabfalltonne
+  60 L\, Restabfalltonne 120 L\, AHS RM 660 L</h1>\n<p>Zum aktuellen Entso
+ rgungskalender: <a href="https://ahkweb.heidekreis.de/entskalender/26607"
+ >https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n               
+  </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L am 05.06.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260611
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 1100 L
+UID:26607-11.06.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 1100 L</title>\n            
+     </head>\n                <body>\n                    <h1>Leerung Frak
+ tionen/Behälter: Gelbe Tonne 1100 L</h1>\n<p>Zum aktuellen Entsorgungskal
+ ender: <a href="https://ahkweb.heidekreis.de/entskalender/26607">https://
+ ahkweb.heidekreis.de/entskalender/26607</a></p>\n                </body>\
+ n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Gelbe Tonne 1100 L am 11.06.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260616
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-16.06.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 16.06.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260619
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Papier 240 L
+UID:26607-19.06.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Papier 240 L</title>\n                </
+ head>\n                <body>\n                    <h1>Leerung Fraktionen
+ /Behälter: Papier 240 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a hr
+ ef="https://ahkweb.heidekreis.de/entskalender/26607">https://ahkweb.heide
+ kreis.de/entskalender/26607</a></p>\n                </body>\n           
+      </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Papier 240 L am 19.06.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260625
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L
+UID:26607-25.06.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L<
+ /title>\n                </head>\n                <body>\n               
+      <h1>Leerung Fraktionen/Behälter: Gelbe Tonne 240 L \, Gelbe Tonne 11
+ 00 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a href="https://ahkweb.
+ heidekreis.de/entskalender/26607">https://ahkweb.heidekreis.de/entskalend
+ er/26607</a></p>\n                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L am 25.06.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260630
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-30.06.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 30.06.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260703
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L
+UID:26607-03.07.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Restabfalltonne 60 L\, Restabfalltonne 1
+ 20 L\, AHS RM 660 L</title>\n                </head>\n                <bo
+ dy>\n                    <h1>Leerung Fraktionen/Behälter: Restabfalltonne
+  60 L\, Restabfalltonne 120 L\, AHS RM 660 L</h1>\n<p>Zum aktuellen Entso
+ rgungskalender: <a href="https://ahkweb.heidekreis.de/entskalender/26607"
+ >https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n               
+  </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L am 03.07.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260709
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 1100 L
+UID:26607-09.07.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 1100 L</title>\n            
+     </head>\n                <body>\n                    <h1>Leerung Frak
+ tionen/Behälter: Gelbe Tonne 1100 L</h1>\n<p>Zum aktuellen Entsorgungskal
+ ender: <a href="https://ahkweb.heidekreis.de/entskalender/26607">https://
+ ahkweb.heidekreis.de/entskalender/26607</a></p>\n                </body>\
+ n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Gelbe Tonne 1100 L am 09.07.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260714
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-14.07.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 14.07.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260717
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Papier 240 L
+UID:26607-17.07.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Papier 240 L</title>\n                </
+ head>\n                <body>\n                    <h1>Leerung Fraktionen
+ /Behälter: Papier 240 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a hr
+ ef="https://ahkweb.heidekreis.de/entskalender/26607">https://ahkweb.heide
+ kreis.de/entskalender/26607</a></p>\n                </body>\n           
+      </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Papier 240 L am 17.07.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260723
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L
+UID:26607-23.07.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L<
+ /title>\n                </head>\n                <body>\n               
+      <h1>Leerung Fraktionen/Behälter: Gelbe Tonne 240 L \, Gelbe Tonne 11
+ 00 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a href="https://ahkweb.
+ heidekreis.de/entskalender/26607">https://ahkweb.heidekreis.de/entskalend
+ er/26607</a></p>\n                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L am 23.07.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260728
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-28.07.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 28.07.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260731
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L
+UID:26607-31.07.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Restabfalltonne 60 L\, Restabfalltonne 1
+ 20 L\, AHS RM 660 L</title>\n                </head>\n                <bo
+ dy>\n                    <h1>Leerung Fraktionen/Behälter: Restabfalltonne
+  60 L\, Restabfalltonne 120 L\, AHS RM 660 L</h1>\n<p>Zum aktuellen Entso
+ rgungskalender: <a href="https://ahkweb.heidekreis.de/entskalender/26607"
+ >https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n               
+  </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L am 31.07.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260806
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 1100 L
+UID:26607-06.08.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 1100 L</title>\n            
+     </head>\n                <body>\n                    <h1>Leerung Frak
+ tionen/Behälter: Gelbe Tonne 1100 L</h1>\n<p>Zum aktuellen Entsorgungskal
+ ender: <a href="https://ahkweb.heidekreis.de/entskalender/26607">https://
+ ahkweb.heidekreis.de/entskalender/26607</a></p>\n                </body>\
+ n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Gelbe Tonne 1100 L am 06.08.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260811
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-11.08.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 11.08.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260814
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Papier 240 L
+UID:26607-14.08.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Papier 240 L</title>\n                </
+ head>\n                <body>\n                    <h1>Leerung Fraktionen
+ /Behälter: Papier 240 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a hr
+ ef="https://ahkweb.heidekreis.de/entskalender/26607">https://ahkweb.heide
+ kreis.de/entskalender/26607</a></p>\n                </body>\n           
+      </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Papier 240 L am 14.08.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260820
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L
+UID:26607-20.08.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L<
+ /title>\n                </head>\n                <body>\n               
+      <h1>Leerung Fraktionen/Behälter: Gelbe Tonne 240 L \, Gelbe Tonne 11
+ 00 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a href="https://ahkweb.
+ heidekreis.de/entskalender/26607">https://ahkweb.heidekreis.de/entskalend
+ er/26607</a></p>\n                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L am 20.08.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260825
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-25.08.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 25.08.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260828
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L
+UID:26607-28.08.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Restabfalltonne 60 L\, Restabfalltonne 1
+ 20 L\, AHS RM 660 L</title>\n                </head>\n                <bo
+ dy>\n                    <h1>Leerung Fraktionen/Behälter: Restabfalltonne
+  60 L\, Restabfalltonne 120 L\, AHS RM 660 L</h1>\n<p>Zum aktuellen Entso
+ rgungskalender: <a href="https://ahkweb.heidekreis.de/entskalender/26607"
+ >https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n               
+  </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L am 28.08.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260903
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 1100 L
+UID:26607-03.09.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 1100 L</title>\n            
+     </head>\n                <body>\n                    <h1>Leerung Frak
+ tionen/Behälter: Gelbe Tonne 1100 L</h1>\n<p>Zum aktuellen Entsorgungskal
+ ender: <a href="https://ahkweb.heidekreis.de/entskalender/26607">https://
+ ahkweb.heidekreis.de/entskalender/26607</a></p>\n                </body>\
+ n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Gelbe Tonne 1100 L am 03.09.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260908
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-08.09.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 08.09.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260911
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Papier 240 L
+UID:26607-11.09.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Papier 240 L</title>\n                </
+ head>\n                <body>\n                    <h1>Leerung Fraktionen
+ /Behälter: Papier 240 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a hr
+ ef="https://ahkweb.heidekreis.de/entskalender/26607">https://ahkweb.heide
+ kreis.de/entskalender/26607</a></p>\n                </body>\n           
+      </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Papier 240 L am 11.09.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260917
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L
+UID:26607-17.09.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L<
+ /title>\n                </head>\n                <body>\n               
+      <h1>Leerung Fraktionen/Behälter: Gelbe Tonne 240 L \, Gelbe Tonne 11
+ 00 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a href="https://ahkweb.
+ heidekreis.de/entskalender/26607">https://ahkweb.heidekreis.de/entskalend
+ er/26607</a></p>\n                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L am 17.09.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260922
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-22.09.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 22.09.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20260925
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L
+UID:26607-25.09.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Restabfalltonne 60 L\, Restabfalltonne 1
+ 20 L\, AHS RM 660 L</title>\n                </head>\n                <bo
+ dy>\n                    <h1>Leerung Fraktionen/Behälter: Restabfalltonne
+  60 L\, Restabfalltonne 120 L\, AHS RM 660 L</h1>\n<p>Zum aktuellen Entso
+ rgungskalender: <a href="https://ahkweb.heidekreis.de/entskalender/26607"
+ >https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n               
+  </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L am 25.09.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261001
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 1100 L
+UID:26607-01.10.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 1100 L</title>\n            
+     </head>\n                <body>\n                    <h1>Leerung Frak
+ tionen/Behälter: Gelbe Tonne 1100 L</h1>\n<p>Zum aktuellen Entsorgungskal
+ ender: <a href="https://ahkweb.heidekreis.de/entskalender/26607">https://
+ ahkweb.heidekreis.de/entskalender/26607</a></p>\n                </body>\
+ n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Gelbe Tonne 1100 L am 01.10.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261006
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-06.10.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 06.10.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261009
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Papier 240 L
+UID:26607-09.10.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Papier 240 L</title>\n                </
+ head>\n                <body>\n                    <h1>Leerung Fraktionen
+ /Behälter: Papier 240 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a hr
+ ef="https://ahkweb.heidekreis.de/entskalender/26607">https://ahkweb.heide
+ kreis.de/entskalender/26607</a></p>\n                </body>\n           
+      </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Papier 240 L am 09.10.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261015
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L
+UID:26607-15.10.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L<
+ /title>\n                </head>\n                <body>\n               
+      <h1>Leerung Fraktionen/Behälter: Gelbe Tonne 240 L \, Gelbe Tonne 11
+ 00 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a href="https://ahkweb.
+ heidekreis.de/entskalender/26607">https://ahkweb.heidekreis.de/entskalend
+ er/26607</a></p>\n                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L am 15.10.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261020
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-20.10.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 20.10.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261023
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L
+UID:26607-23.10.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Restabfalltonne 60 L\, Restabfalltonne 1
+ 20 L\, AHS RM 660 L</title>\n                </head>\n                <bo
+ dy>\n                    <h1>Leerung Fraktionen/Behälter: Restabfalltonne
+  60 L\, Restabfalltonne 120 L\, AHS RM 660 L</h1>\n<p>Zum aktuellen Entso
+ rgungskalender: <a href="https://ahkweb.heidekreis.de/entskalender/26607"
+ >https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n               
+  </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L am 23.10.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261029
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 1100 L
+UID:26607-29.10.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 1100 L</title>\n            
+     </head>\n                <body>\n                    <h1>Leerung Frak
+ tionen/Behälter: Gelbe Tonne 1100 L</h1>\n<p>Zum aktuellen Entsorgungskal
+ ender: <a href="https://ahkweb.heidekreis.de/entskalender/26607">https://
+ ahkweb.heidekreis.de/entskalender/26607</a></p>\n                </body>\
+ n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Gelbe Tonne 1100 L am 29.10.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Strauchschnitt \nAktueller Entsorgungskalende
+ r unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261102
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Strauchschnitt
+UID:26607-02.11.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Strauchschnitt</title>\n                
+ </head>\n                <body>\n                    <h1>Leerung Fraktion
+ en/Behälter: Strauchschnitt</h1>\n<p>Zum aktuellen Entsorgungskalender: <
+ a href="https://ahkweb.heidekreis.de/entskalender/26607">https://ahkweb.h
+ eidekreis.de/entskalender/26607</a></p>\n                </body>\n       
+          </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Strauchschnitt \nAktueller Entsorgungskalende
+ r unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Strauchschnitt am 02.11.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261103
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-03.11.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 03.11.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261106
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Papier 240 L
+UID:26607-06.11.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Papier 240 L</title>\n                </
+ head>\n                <body>\n                    <h1>Leerung Fraktionen
+ /Behälter: Papier 240 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a hr
+ ef="https://ahkweb.heidekreis.de/entskalender/26607">https://ahkweb.heide
+ kreis.de/entskalender/26607</a></p>\n                </body>\n           
+      </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Papier 240 L am 06.11.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261112
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L
+UID:26607-12.11.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L<
+ /title>\n                </head>\n                <body>\n               
+      <h1>Leerung Fraktionen/Behälter: Gelbe Tonne 240 L \, Gelbe Tonne 11
+ 00 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a href="https://ahkweb.
+ heidekreis.de/entskalender/26607">https://ahkweb.heidekreis.de/entskalend
+ er/26607</a></p>\n                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L am 12.11.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261117
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-17.11.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 17.11.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261120
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L
+UID:26607-20.11.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Restabfalltonne 60 L\, Restabfalltonne 1
+ 20 L\, AHS RM 660 L</title>\n                </head>\n                <bo
+ dy>\n                    <h1>Leerung Fraktionen/Behälter: Restabfalltonne
+  60 L\, Restabfalltonne 120 L\, AHS RM 660 L</h1>\n<p>Zum aktuellen Entso
+ rgungskalender: <a href="https://ahkweb.heidekreis.de/entskalender/26607"
+ >https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n               
+  </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L am 20.11.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261126
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 1100 L
+UID:26607-26.11.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 1100 L</title>\n            
+     </head>\n                <body>\n                    <h1>Leerung Frak
+ tionen/Behälter: Gelbe Tonne 1100 L</h1>\n<p>Zum aktuellen Entsorgungskal
+ ender: <a href="https://ahkweb.heidekreis.de/entskalender/26607">https://
+ ahkweb.heidekreis.de/entskalender/26607</a></p>\n                </body>\
+ n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Gelbe Tonne 1100 L am 26.11.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261201
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-01.12.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 01.12.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261204
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Papier 240 L
+UID:26607-04.12.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Papier 240 L</title>\n                </
+ head>\n                <body>\n                    <h1>Leerung Fraktionen
+ /Behälter: Papier 240 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a hr
+ ef="https://ahkweb.heidekreis.de/entskalender/26607">https://ahkweb.heide
+ kreis.de/entskalender/26607</a></p>\n                </body>\n           
+      </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Papier 240 L \nAktueller Entsorgungskalender 
+ unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Papier 240 L am 04.12.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261210
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L
+UID:26607-10.12.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L<
+ /title>\n                </head>\n                <body>\n               
+      <h1>Leerung Fraktionen/Behälter: Gelbe Tonne 240 L \, Gelbe Tonne 11
+ 00 L</h1>\n<p>Zum aktuellen Entsorgungskalender: <a href="https://ahkweb.
+ heidekreis.de/entskalender/26607">https://ahkweb.heidekreis.de/entskalend
+ er/26607</a></p>\n                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 240 L \, Gelbe Tonne 1100 L \nAkt
+ ueller Entsorgungskalender unter https://ahkweb.heidekreis.de/entskalende
+ r/26607.
+SUMMARY:Leerung: Gelbe Tonne 240 L \, Gelbe Tonne 1100 L am 10.12.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261215
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-15.12.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 15.12.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261218
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L
+UID:26607-18.12.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Restabfalltonne 60 L\, Restabfalltonne 1
+ 20 L\, AHS RM 660 L</title>\n                </head>\n                <bo
+ dy>\n                    <h1>Leerung Fraktionen/Behälter: Restabfalltonne
+  60 L\, Restabfalltonne 120 L\, AHS RM 660 L</h1>\n<p>Zum aktuellen Entso
+ rgungskalender: <a href="https://ahkweb.heidekreis.de/entskalender/26607"
+ >https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n               
+  </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Restabfalltonne 60 L\, Restabfalltonne 120 L\
+ , AHS RM 660 L \nAktueller Entsorgungskalender unter https://ahkweb.heide
+ kreis.de/entskalender/26607.
+SUMMARY:Leerung: Restabfalltonne 60 L\, Restabfalltonne 120 L\, AHS RM 660
+  L am 18.12.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261224
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Gelbe Tonne 1100 L
+UID:26607-24.12.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Gelbe Tonne 1100 L</title>\n            
+     </head>\n                <body>\n                    <h1>Leerung Frak
+ tionen/Behälter: Gelbe Tonne 1100 L</h1>\n<p>Zum aktuellen Entsorgungskal
+ ender: <a href="https://ahkweb.heidekreis.de/entskalender/26607">https://
+ ahkweb.heidekreis.de/entskalender/26607</a></p>\n                </body>\
+ n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Gelbe Tonne 1100 L \nAktueller Entsorgungskal
+ ender unter https://ahkweb.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Gelbe Tonne 1100 L am 24.12.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+DTSTAMP:20260425T121946Z
+DTSTART;VALUE=DATE:20261229
+GEO:961838.000000;5267596.000000
+LOCATION:Unter den Eichen 6\, 29690 Schwarmstedt
+SEQUENCE:0
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L
+UID:26607-29.12.2026
+URL:https://www.google.de/maps/place/Unter den Eichen 6, 29690 Schwarmstedt
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+                  <title>Leerung: Bioenergietonne 60 L\, Gartentonne 240 L
+  flexibel \, Papier 1100 L</title>\n                </head>\n            
+     <body>\n                    <h1>Leerung Fraktionen/Behälter: Bioenerg
+ ietonne 60 L\, Gartentonne 240 L flexibel \, Papier 1100 L</h1>\n<p>Zum a
+ ktuellen Entsorgungskalender: <a href="https://ahkweb.heidekreis.de/entsk
+ alender/26607">https://ahkweb.heidekreis.de/entskalender/26607</a></p>\n 
+                </body>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leerung Gefaesse Bioenergietonne 60 L\, Gartentonne 240 L flex
+ ibel \, Papier 1100 L \nAktueller Entsorgungskalender unter https://ahkwe
+ b.heidekreis.de/entskalender/26607.
+SUMMARY:Leerung: Bioenergietonne 60 L\, Gartentonne 240 L flexibel \, Papi
+ er 1100 L am 29.12.2026
+TRIGGER:-PT4H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+CREATED:20260425T141946
+DESCRIPTION:Laden Sie sich einen AnschlußEntsorgungskalender herunter:\nht
+ tps://ahkweb.heidekreis.de/entskalender/26607
+DTEND:20261230T081500
+DTSTAMP:20260425T121946Z
+DTSTART:20261230T080000
+SEQUENCE:0
+SUMMARY:Ende des Entsorgungskalenders
+UID:31982d86-0e2c-4b55-9815-c29a2f50aaf0
+URL:https://ahkweb.heidekreis.de/entskalender/26607
+X-ALT-DESC;FMTTYPE=text/html:<html lang="de">\n                <head>\n   
+              </head>\n                <body>\n                    <h1>Ans
+ chlußEntsorgungskalender herunterladen</h1>\n<p>Zum aktuellen Entsorgungs
+ kalender: <a href="https://ahkweb.heidekreis.de/entskalender/26607">https
+ ://ahkweb.heidekreis.de/entskalender/26607</a></p>\n                </bod
+ y>\n                </html>
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Laden Sie sich einen AnschlußEntsorgungskalender herunter:\nht
+ tps://ahkweb.heidekreis.de/entskalender/26607
+SUMMARY:Ende des Entsorgungskalenders
+TRIGGER:-P2DT16H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
