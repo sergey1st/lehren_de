@@ -1,49 +1,16 @@
-Die Leitung will diese Entscheidung gut überlegt haben, ; Руководство утверждает, что хорошо обдумало это решение,
-aber meiner Meinung nach kann diese Regelung trotzdem Probleme verursachen. ;  но, по моему мнению, это правило всё равно может вызвать проблемы.
-Hallo zusammen, ; Всем привет,
-Liebe Kolleginnen und Kollegen, ; Дорогие коллеги,
-Die Idee gefällt mir nicht. ; Мне не нравится эта идея.
-Ich finde das keine gute Idee. ; Я считаю, что это плохая идея.
-Das ist keine sinnvolle Lösung. ; Это неразумное решение.
-Ist das wirklich notwendig? ; Это действительно необходимо?
-Die Idee ist problematisch. ; Эта идея проблематична.
-Ich halte das für falsch. ; Я считаю это неправильным.
-Das finde ich außerordentlich problematisch. ; Я считаю это чрезвычайно проблематичным.
-Meiner Meinung nach ist das keine gute Lösung. ; По моему мнению, это не очень хорошее решение.
-Ich denke, dass das viele Nachteile hat. ; Я думаю, что у этого много недостатков.
-Ich finde, dass man das nicht einführen sollte. ; Я считаю, что это не следует вводить.
-Ich bin der Meinung, dass das problematisch ist. ; Я придерживаюсь мнения, что это проблематично.
-Ich bin überzeugt, dass das negative Folgen haben wird. ; Я убежден, что это будет иметь негативные последствия.
-Ich bin nicht sicher, ob das funktioniert. ; Я не уверен, что это сработает.
-Ein Vorteil ist, dass man Zeit sparen kann. ; Одно преимущество состоит в том, что можно сэкономить время.
-Positiv finde ich, dass alles einfacher wird. ; Положительным я считаю то, что всё становится проще.
-Das hat den Vorteil, dass weniger Stress entsteht. ; Это имеет преимущество в том, что возникает меньше стресса.
-Dafür spricht, dass die Arbeit schneller erledigt werden kann. ; В пользу этого говорит то, что работу можно выполнить быстрее.
-Gut finde ich außerdem, dass man flexibler ist. ; Кроме того, мне нравится, что человек становится более гибким.
-Ein weiterer Vorteil ist die bessere Organisation. ; Еще одно преимущество — лучшая организация.
-Das könnte den Alltag erleichtern. ; Это могло бы облегчить повседневную жизнь.
-Das hat einen großen Nachteil. ; У этого есть большой недостаток.
-Das wird sich negativ auswirken. ; Это окажет негативное влияние.
-Dagegen spricht, dass viele Menschen darunter leiden könnten. ; Против этого говорит то, что многие люди могут от этого пострадать.
-Ich befürchte, dass dadurch neue Probleme entstehen. ; Я опасаюсь, что из-за этого возникнут новые проблемы.
-Weniger gut finde ich die hohen Kosten. ; Мне не нравятся высокие расходы.
-Ein weiterer Nachteil ist der Zeitverlust. ; Еще один недостаток — потеря времени.
-Außerdem könnte das Stress verursachen. ; Кроме того, это может вызвать стресс.
-Zum Beispiel gibt es oft technische Probleme. ; Например, часто возникают технические проблемы.
-Das war bei anderen Projekten auch so. ; Так было и с другими проектами.
-Ich erinnere an ähnliche Situationen. ; Я вспоминаю похожие ситуации.
-Man denke nur an die zusätzlichen Kosten. ; Стоит только подумать о дополнительных расходах.
-Ein gutes Beispiel dafür ist ... ; Хорошим примером этого является ...
-Was denkt ihr darüber? ; Что вы об этом думаете?
-Wie ist eure Meinung dazu? ; Каково ваше мнение по этому поводу?
-Seid ihr damit einverstanden? ; Вы с этим согласны?
-Welche Erfahrungen habt ihr damit gemacht? ; Какой опыт у вас был с этим?
-Wie seht ihr das? ; Как вы это видите?
-Würdet ihr das unterstützen? ; Поддержали бы вы это?
-Habt ihr ähnliche Erfahrungen gemacht? ; Были ли у вас похожие ситуации?
-Insgesamt finde ich diese Idee nicht sinnvoll. ; В целом я считаю эту идею неразумной.
-Meiner Meinung nach sollten wir das nicht einführen. ; По моему мнению, нам не следует это вводить.
-Ich sehe hier mehr Nachteile als Vorteile. ; Я вижу здесь больше недостатков, чем преимуществ.
-Deshalb bin ich gegen diesen Vorschlag. ; Поэтому я против этого предложения.
-Das Ganze halte ich für keine gute Maßnahme. ; Я считаю всё это неудачной мерой.
-Aus diesen Gründen lehne ich die Idee ab. ; По этим причинам я отвергаю эту идею.
+Hallo zusammen, ; Всем вместе / всем коллегам,
+habt ihr schon gehört, ; вы уже слышали,
+dass unsere Firma eine neue Regelung plant? ; что наша фирма новое правило планирует?
+Wer im letzten Jahr weniger als 15 Tage krank war, ; кто в прошлом году меньше чем 15 дней болен был,
+soll eine Bonuszahlung oder fünf zusätzliche Urlaubstage bekommen. ; должен одну бонусную выплату или пять дополнительных отпускных дней получить.
+Ehrlich gesagt gefällt mir diese Idee nicht so gut. ; честно сказано нравится мне эта идея не так хорошо.
+Die Leitung will diese Entscheidung gut überlegt haben, ; руководство утверждает эту решение хорошо обдумало,
+aber meiner Meinung nach kann diese Regelung trotzdem Probleme verursachen. ; но по моему мнению может это правило всё же проблемы вызывать.
+Manche Mitarbeiter sind wirklich krank ; некоторые сотрудники действительно больны
+und können nichts dafür. ; и могут ничего за это.
+Einige kommen vielleicht krank zur Arbeit, ; некоторые приходят возможно больными на работу,
+nur um den Bonus zu bekommen. ; только чтобы бонус получить.
+Meiner Meinung nach sollte die Firma lieber alle Mitarbeiter motivieren ; по моему мнению должна фирма лучше всех сотрудников мотивировать
+und nicht nur die gesunden belohnen. ; а не только здоровых награждать.
+Was denkt ihr darüber? ; что думаете вы об этом?
+Viele Grüße ; много приветов / с большим приветом
