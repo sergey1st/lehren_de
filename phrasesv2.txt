@@ -1,36 +1,16 @@
-Sehr geehrte Damen und Herren,;Уважаемые дамы и господа,
-Sehr geehrte Frau Müller,;Уважаемая госпожа Мюллер,
-Sehr geehrter Herr Müller,;Уважаемый господин Мюллер,
-Ich schreibe Ihnen, weil ...;Я пишу Вам, потому что ...
-Ich habe Produkt erhalten und möchte mich dazu äußern.;Я получил(а) продукт и хочу высказаться по этому поводу.
-Ich habe Produkt gekauft und möchte mich dazu äußern.;Я купил(а) продукт и хочу высказаться по этому поводу.
-Ich habe Produkt gebucht und möchte mich dazu äußern.;Я забронировал(а) продукт и хочу высказаться по этому поводу.
-Leider bin ich nicht zufrieden, weil ...;К сожалению, я недоволен(на), потому что ...
-Ich habe bemerkt, dass ...;Я заметил(а), что ...
-Es funktioniert nicht richtig.;Это не работает правильно.
-Das Produkt entspricht nicht meiner Erwartung.;* Продукт не соответствует моим ожиданиям.
-Ich bitte Sie um Ersatz;Я прошу Вас о замене.
-Ich bitte Sie um Rückerstattung;Я прошу Вас о возврате денег
-Ich möchte das Produkt zurücksenden und mein Geld zurückbekommen.;Я хочу отправить продукт обратно и получить свои деньги назад.
-Bitte schlagen Sie mir eine Lösung vor.;Пожалуйста, предложите мне решение.
-Bitte kontaktieren Sie mich unter meiner E-Mail-Adresse:;* Пожалуйста, свяжитесь со мной по моему адресу электронной почты:
-Ich danke Ihnen im Voraus für Ihre Hilfe.;* Я благодарю Вас заранее за Вашу помощь.
-Ich freue mich auf Ihre Antwort.;Я с нетерпением жду Вашего ответа.
-Mit freundlichen Grüßen;С уважением
-Ich bin enttäuscht, weil ...;Я разочарован(а), потому что ...
-Ich hoffe auf eine schnelle Lösung.;Я надеюсь на быстрое решение.
-Vielen Dank für Ihr Verständnis.;Большое спасибо за Ваше понимание.
-Vielen Dank für Ihre Nachricht.;Спасибо за Ваше сообщение.
-Je länger ich auf Ihre Antwort warten muss, desto größer wird die Wahrscheinlichkeit, dass Sie meinen Anwalt kennenlernen, denn meine Geduld ist nicht unbegrenzt.;Чем дольше мне придется ждать вашего ответа, тем больше вероятность, что вы встретитесь с моим адвокатом, поскольку мое терпение не безгранично.
-Natürlich helfe ich dir gern.;Конечно, я с радостью помогу Тебе.
-Leider habe ich keine Zeit.;К сожалению, у меня нет времени.
-Ich möchte mich entschuldigen.;Я хочу извиниться.
-Ich habe eine Frage: …;У меня есть вопрос: …
-Bitte gib mir Bescheid.;Пожалуйста, сообщи мне.
-Ich freue mich auf deine Antwort.;Жду твоего ответа.
-***;***
-Ich möchte mich über alle Möglichkeiten erkundigen.;Я хотел узнать обо всех возможностях.
-Sag mir bitte Bescheid, wie ich den Schlüssel bekomme.;Пожалуйста, дайте мне знать, как я могу получить ключ.
-Was soll ich mit deinen Pflanzen machen?;Что мне делать с вашими растениями?
-Sag mir einfach Bescheid, ob das für dich passt.;Просто дайте мне знать, если это вам подходит.
-Nachdem ich das gemacht hatte, hat sich nichts verändert.;После того как я это сделал, ничего не изменилось.
+Hallo zusammen, ; Привет всем,
+habt ihr schon gehört, ; вы уже слышали,
+dass unsere Firma eine neue Regelung plant? ; что наша фирма новое правило планирует?
+Wer im letzten Jahr weniger als 15 Tage krank war, ; кто в прошлом году меньше чем 15 дней болен был,
+soll eine Bonuszahlung oder fünf zusätzliche Urlaubstage bekommen. ; должен одну бонусную выплату или пять дополнительных отпускных дней получить.
+Ehrlich gesagt gefällt mir diese Idee nicht so gut. ; честно сказано нравится мне эта идея не так хорошо.
+Die Leitung will diese Entscheidung gut überlegt haben, ; руководство утверждает эту решение хорошо обдумало,
+aber meiner Meinung nach kann diese Regelung trotzdem Probleme verursachen. ; но по моему мнению может это правило всё же проблемы вызывать.
+Manche Mitarbeiter sind wirklich krank ; некоторые сотрудники действительно больны
+und können nichts dafür. ; и могут ничего за это.
+Einige kommen vielleicht krank zur Arbeit, ; некоторые приходят возможно больными на работу,
+nur um den Bonus zu bekommen. ; только чтобы бонус получить.
+Meiner Meinung nach sollte die Firma lieber alle Mitarbeiter motivieren ; по моему мнению должна фирма лучше всех сотрудников мотивировать
+und nicht nur die gesunden belohnen. ; а не только здоровых награждать.
+Was denkt ihr darüber? ; что думаете вы об этом?
+Viele Grüße ; много приветов / с большим приветом
