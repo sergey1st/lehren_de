@@ -1,0 +1,682 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//ChatGPT//WM 2026 ARD ZDF Kalender//DE
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:WM 2026 ARD/ZDF Free-TV
+X-WR-TIMEZONE:Europe/Berlin
+BEGIN:VTIMEZONE
+TZID:Europe/Berlin
+X-LIC-LOCATION:Europe/Berlin
+BEGIN:DAYLIGHT
+TZOFFSETFROM:+0100
+TZOFFSETTO:+0200
+TZNAME:CEST
+DTSTART:19700329T020000
+RRULE:FREQ=YEARLY;BYMONTH=3;BYDAY=-1SU
+END:DAYLIGHT
+BEGIN:STANDARD
+TZOFFSETFROM:+0200
+TZOFFSETTO:+0100
+TZNAME:CET
+DTSTART:19701025T030000
+RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:02a18102-4577-596a-b2b0-8a314c9c1fad@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260611T210000
+DTEND;TZID=Europe/Berlin:20260611T230000
+SUMMARY:WM 2026: Mexiko – Südafrika (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Mexiko – Südafrika (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3617f8f0-68b3-5065-8199-4d54d98c3895@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260612T210000
+DTEND;TZID=Europe/Berlin:20260612T230000
+SUMMARY:WM 2026: Kanada – Bosnien-Herzegowina (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Kanada – Bosnien-Herzegowina (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e77f7a30-ad00-5842-8d51-a6a88612bc22@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260613T210000
+DTEND;TZID=Europe/Berlin:20260613T230000
+SUMMARY:WM 2026: Katar – Schweiz (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Katar – Schweiz (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:74bd8588-c349-5f59-8759-04c86fe8d326@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260614T000000
+DTEND;TZID=Europe/Berlin:20260614T020000
+SUMMARY:WM 2026: Brasilien – Marokko (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Brasilien – Marokko (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4381191b-3ef5-5237-9192-b6f01ef7b0ac@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260614T030000
+DTEND;TZID=Europe/Berlin:20260614T050000
+SUMMARY:WM 2026: Haiti – Schottland (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Haiti – Schottland (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2825ac14-71ca-5221-9eb9-f5793e18a137@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260614T190000
+DTEND;TZID=Europe/Berlin:20260614T210000
+SUMMARY:WM 2026: Deutschland – Curaçao (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Deutschland – Curaçao (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:45231558-8e34-581e-96e2-0909265482a3@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260615T010000
+DTEND;TZID=Europe/Berlin:20260615T030000
+SUMMARY:WM 2026: Elfenbeinküste – Ecuador (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Elfenbeinküste – Ecuador (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f67cc3f0-1a18-553e-9a3e-05d7e40fdd13@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260615T180000
+DTEND;TZID=Europe/Berlin:20260615T200000
+SUMMARY:WM 2026: Spanien – Kap Verde (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Spanien – Kap Verde (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ce98ad4a-181e-59e2-8e70-e21125304132@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260615T210000
+DTEND;TZID=Europe/Berlin:20260615T230000
+SUMMARY:WM 2026: Belgien – Ägypten (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Belgien – Ägypten (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c29409ab-b3be-548f-92f7-3bb83fcc32c8@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260616T000000
+DTEND;TZID=Europe/Berlin:20260616T020000
+SUMMARY:WM 2026: Saudi-Arabien – Uruguay (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Saudi-Arabien – Uruguay (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7a8c3a47-1893-5a9f-b5ea-d71f51b9ef0d@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260616T030000
+DTEND;TZID=Europe/Berlin:20260616T050000
+SUMMARY:WM 2026: Iran – Neuseeland (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Iran – Neuseeland (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:81dcf878-b0db-5044-a5fe-7d031281bc07@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260617T030000
+DTEND;TZID=Europe/Berlin:20260617T050000
+SUMMARY:WM 2026: Argentinien – Algerien (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Argentinien – Algerien (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7da9cf9c-c7a7-527f-86ab-d87125e06ebd@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260617T060000
+DTEND;TZID=Europe/Berlin:20260617T080000
+SUMMARY:WM 2026: Österreich – Jordanien (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Österreich – Jordanien (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1d349c39-d6c3-5b4c-aaed-4f5d10867ae5@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260617T190000
+DTEND;TZID=Europe/Berlin:20260617T210000
+SUMMARY:WM 2026: Portugal – DR Kongo (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Portugal – DR Kongo (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3dbb88fb-87c9-5ce2-8de5-114041d66d56@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260617T220000
+DTEND;TZID=Europe/Berlin:20260618T000000
+SUMMARY:WM 2026: England – Kroatien (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: England – Kroatien (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7a0d4dc2-fd8a-5353-9c98-c928fb067abe@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260618T180000
+DTEND;TZID=Europe/Berlin:20260618T200000
+SUMMARY:WM 2026: Tschechien – Südafrika (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Tschechien – Südafrika (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bb5b06ce-90c2-547d-b144-7d9beb927572@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260619T000000
+DTEND;TZID=Europe/Berlin:20260619T020000
+SUMMARY:WM 2026: Kanada – Katar (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Kanada – Katar (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a0e1718c-54bf-5571-8ce1-23a3524fd85b@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260619T210000
+DTEND;TZID=Europe/Berlin:20260619T230000
+SUMMARY:WM 2026: USA – Australien (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: USA – Australien (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8861b481-8042-5c96-9c88-60c160394d5b@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260620T030000
+DTEND;TZID=Europe/Berlin:20260620T050000
+SUMMARY:WM 2026: Brasilien – Haiti (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Brasilien – Haiti (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2ff6e9d2-71e4-52ee-9338-9ca30ac031b6@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260620T190000
+DTEND;TZID=Europe/Berlin:20260620T210000
+SUMMARY:WM 2026: Niederlande – Schweden (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Niederlande – Schweden (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6013eb6a-cd9f-5092-8770-4285fb97fe5a@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260620T220000
+DTEND;TZID=Europe/Berlin:20260621T000000
+SUMMARY:WM 2026: Deutschland – Elfenbeinküste (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Deutschland – Elfenbeinküste (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:55744bc0-270d-57ba-8712-bae1d08bea3e@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260621T020000
+DTEND;TZID=Europe/Berlin:20260621T040000
+SUMMARY:WM 2026: Ecuador – Curaçao (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Ecuador – Curaçao (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f35f3a0f-753a-5550-81d7-650cb8f69e0d@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260621T210000
+DTEND;TZID=Europe/Berlin:20260621T230000
+SUMMARY:WM 2026: Belgien – Iran (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Belgien – Iran (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:75576954-0d78-58b6-a570-36d800c75d81@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260622T000000
+DTEND;TZID=Europe/Berlin:20260622T020000
+SUMMARY:WM 2026: Uruguay – Kap Verde (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Uruguay – Kap Verde (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2237b71e-3937-57e2-b6e7-84c4fdc54bcd@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260622T190000
+DTEND;TZID=Europe/Berlin:20260622T210000
+SUMMARY:WM 2026: Argentinien – Österreich (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Argentinien – Österreich (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ce017fd9-1bc6-5773-a042-a2b119d64eb4@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260622T230000
+DTEND;TZID=Europe/Berlin:20260623T010000
+SUMMARY:WM 2026: Frankreich – Irak (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Frankreich – Irak (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:47d5d62a-4772-520f-a9f8-22e97e1c3c3b@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260623T050000
+DTEND;TZID=Europe/Berlin:20260623T070000
+SUMMARY:WM 2026: Jordanien – Algerien (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Jordanien – Algerien (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:300e7c8e-1258-5a90-adb0-1941f678968f@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260623T190000
+DTEND;TZID=Europe/Berlin:20260623T210000
+SUMMARY:WM 2026: Portugal – Usbekistan (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Portugal – Usbekistan (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0b094226-6d19-5453-8709-e234bef28992@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260623T220000
+DTEND;TZID=Europe/Berlin:20260624T000000
+SUMMARY:WM 2026: England – Ghana (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: England – Ghana (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8d55a467-a89a-5f51-969d-277878a4b160@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260624T040000
+DTEND;TZID=Europe/Berlin:20260624T060000
+SUMMARY:WM 2026: Kolumbien – DR Kongo (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Kolumbien – DR Kongo (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d9e67e36-ee44-53a7-8b39-907ab4b0aded@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260624T210000
+DTEND;TZID=Europe/Berlin:20260624T230000
+SUMMARY:WM 2026: Schweiz – Kanada (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Schweiz – Kanada (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:db184799-770f-589a-8806-5e95c93853ef@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260625T000000
+DTEND;TZID=Europe/Berlin:20260625T020000
+SUMMARY:WM 2026: Marokko – Haiti (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Marokko – Haiti (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6d962c14-db55-5131-98fd-a50268eea8e9@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260625T220000
+DTEND;TZID=Europe/Berlin:20260626T000000
+SUMMARY:WM 2026: Ecuador – Deutschland (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Ecuador – Deutschland (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:17e5e8cc-3fcd-50fd-a770-3ffc0b8dcfc3@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260626T010000
+DTEND;TZID=Europe/Berlin:20260626T030000
+SUMMARY:WM 2026: Tunesien – Niederlande (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Tunesien – Niederlande (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:3df3e245-5403-5253-94ac-f20e4efb4890@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260626T040000
+DTEND;TZID=Europe/Berlin:20260626T060000
+SUMMARY:WM 2026: Paraguay – Australien (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Paraguay – Australien (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ea1c9bd7-7873-562f-a97f-af0f6f36a73e@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260626T210000
+DTEND;TZID=Europe/Berlin:20260626T230000
+SUMMARY:WM 2026: Norwegen – Frankreich (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Norwegen – Frankreich (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:5b7910b5-43d2-5c04-879d-35b3f58a0f34@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260627T020000
+DTEND;TZID=Europe/Berlin:20260627T040000
+SUMMARY:WM 2026: Kap Verde – Saudi-Arabien (ARD)
+DESCRIPTION:Live im Free-TV/Livestream: ARD. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Kap Verde – Saudi-Arabien (ARD)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6014e5e2-4a4f-542a-b6af-2aa64e27fe30@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260627T230000
+DTEND;TZID=Europe/Berlin:20260628T010000
+SUMMARY:WM 2026: Kroatien – Ghana (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Kroatien – Ghana (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9c30ad55-9731-5f62-97d5-8dafdf31392e@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260628T013000
+DTEND;TZID=Europe/Berlin:20260628T033000
+SUMMARY:WM 2026: Kolumbien – Portugal (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Kolumbien – Portugal (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:8ec1f192-6aba-56e9-89f8-56f78249d2fd@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260628T040000
+DTEND;TZID=Europe/Berlin:20260628T060000
+SUMMARY:WM 2026: Algerien – Österreich (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Algerien – Österreich (ZDF)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:1508aa03-8b82-59c1-865e-db6191705377@chatgpt-wm2026
+DTSTAMP:20260608T194241Z
+DTSTART;TZID=Europe/Berlin:20260719T210000
+DTEND;TZID=Europe/Berlin:20260719T230000
+SUMMARY:WM 2026: Finale: Sieger Spiel 101 – Sieger Spiel 102 (ZDF)
+DESCRIPTION:Live im Free-TV/Livestream: ZDF. Quelle: Sportschau WM-Spielpla
+ n\, Stand 29.05.2026. Zeiten: Europe/Berlin/MESZ. K.-o.-Phase nur aufgenom
+ men\, soweit Sender bereits eindeutig genannt ist.
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:WM 2026: Finale: Sieger Spiel 101 – Sieger Spiel 102 (ZDF)
+END:VALARM
+END:VEVENT
+END:VCALENDAR
