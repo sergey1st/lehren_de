@@ -1,15 +1,13 @@
-Sehr geehrte Frau Müller/Sehr geehrter Herr Müller,;1 Уважаемая госпожа Мюллер/Уважаемый господин Мюллер,
-vielen Dank, dass Sie uns über das Problem/den Mangel informiert haben.;2 Большое спасибо за то, что Вы проинформировали нас о проблеме/недостатке.
-Wir bedauern sehr, dass es Probleme mit unserem Service/der Hygiene/einem unserer Mitarbeiter/der Lieferung gab.;3 Мы очень сожалеем, что были проблемы с нашим сервисом/гигиеной/одним из наших сотрудников/доставкой.
-Lassen Sie mich bitte kurz erklären, was genau passiert ist. [...];4 Позвольте мне, пожалуйста, кратко объяснить, что именно произошло...
-Leider hat sich die Lieferung aufgrund eines unerwarteten Defekts des Lieferwagens verzögert.;41 К сожалению, доставка задержалась по причине неожиданного дефекта автомобиля доставки.
-Wir versprechen Ihnen, dass wir das Problem so schnell wie möglich beheben.;5 Мы обещаем Вам, что устраним проблему так быстро, как это возможно.
-Wir werden mit dem zuständigen Mitarbeiter/der zuständigen Mitarbeiterin sprechen und ihn/sie darauf hinweisen, dass ...;6 Мы поговорим с ответственным сотрудником/ответственной сотрудницей и обратим его/её внимание на то, что ...
-... dass so etwas in Zukunft nicht mehr vorkommen darf.; 61... что такое в будущем больше не должно происходить.
-... dass er/sie in Zukunft ...;  62 ... что он/она в будущем ...
-... dass sich ein solcher Vorfall nicht wiederholen darf. 63 ... что подобный случай не должен повториться.
-Als Wiedergutmachung bieten wir Ihnen einen Rabatt in Höhe von 10% für Ihre nächste Bestellung an.;7 В качестве возмещения мы предлагаем Вам скидку в размере 10% для Вашего следующего заказа.
-Selbstverständlich übernehmen wir die Kosten dafür.;8 Разумеется, мы возьмём расходы за это на себя.
-Eine vergleichbare Situation wird sich nicht wiederholen.;9 Подобная ситуация не повторится.
-Mit freundlichen Grüßen;10 С дружескими приветствиями.
-Vorname Name;11 Имя Фамилия
+Hallo zusammen; Всем привет
+ich habe gehört, dass unsere Firma plant, dass_; я слышал, что наша фирма планирует, что_
+Grundsätzlich bin ich dafür, allerdings sollte man einige Punkte beachten.; В принципе, я за это, однако следует обратить внимание на некоторые моменты.
+Ein großer Vorteil ist, dass_; Большое преимущество заключается в том, что_
+Außerdem können_; Кроме того, можем_
+Andererseits sollte man nicht vergessen, dass es auch einige Nachteile gibt.; С другой стороны, не следует забывать, что есть и некоторые недостатки.
+Zum Beispiel könnte_; Например, могло бы_
+Trotzdem denke ich, dass die Vorteile überwiegen.; Несмотря на это, я думаю, что преимущества перевешивают.
+Aus meiner Erfahrung weiß ich, dass_; Из своего опыта я знаю, что_
+Aus diesem Grund halte ich diesen Vorschlag insgesamt für sinnvoll.; По этой причине я в целом считаю это предложение разумным.
+Wie seht ihr das?; Как вы это видите?
+Welche Erfahrungen habt ihr damit gemacht?; Какой у вас был с этим опыт?
+Viele Grüße; С наилучшими пожеланиями.
