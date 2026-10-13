@@ -14,4 +14,5 @@ Eine vergleichbare Situation wird sich nicht wiederholen.;9 Подобная с�
 Mit freundlichen Grüßen;10 С дружескими приветствиями.
 Vorname Name;11 Имя Фамилия
 Allerdings möchte ich Sie darauf hinweisen, dass...;Однако я хотел бы обратить Ваше внимание на то, что...
-Bitte geben Sie uns Bescheid, ob Sie mit den zusätzlichen Kosten einverstanden sind.;Пожалуйста, сообщите нам, согласны ли вы с дополнительными расходами.
+Bitte geben Sie uns Bescheid, ob Sie mit den zusätzlichen Kosten einverstanden sind.Пожалуйста, сообщите нам, согласны ли вы с дополнительными расходами.
+Da diese Änderungen mit zusätzlichem Aufwand verbunden sind, berechnen wir dafür 20 Euro; Поскольку эти изменения связаны с дополнительными трудозатратами, мы взимаем за них 20 евро
