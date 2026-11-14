@@ -12991,8 +12991,8 @@ function ee() {
     return (
       (async () => {
         try {
-          let n = await fetch(`./../bde.txt`);
-          if (!n.ok) throw Error(`Failed to load phrase.txt: ${n.status}`);
+          let n = await fetch(`/bde.txt`);
+          if (!n.ok) throw Error(`Failed to load /bde.txt: ${n.status}`);
           let r = _(await n.text());
           if (!e) return;
           (t(r), a(0), s(``), u((e) => C(y(r[0]?.phrase ?? ``)[0], e)));
