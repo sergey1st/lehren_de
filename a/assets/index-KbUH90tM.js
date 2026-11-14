@@ -12991,7 +12991,7 @@ function ee() {
     return (
       (async () => {
         try {
-          let n = await fetch(`./../fbt.txt`);
+          let n = await fetch(`./../bde.txt`);
           if (!n.ok) throw Error(`Failed to load phrase.txt: ${n.status}`);
           let r = _(await n.text());
           if (!e) return;
