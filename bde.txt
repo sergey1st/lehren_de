@@ -8,13 +8,13 @@ Wir versprechen Ihnen, dass wir das Problem so schnell wie möglich beheben.;5 �
 Wir werden mit dem zuständigen Mitarbeiter sprechen und ihn darauf hinweisen, dass ...;6m Мы поговорим с ответственным сотрудником и обратим его внимание на то, что ...
 ... dass so etwas in Zukunft nicht mehr vorkommen darf.; 61... что такое в будущем больше не должно происходить.
 ... dass er/sie in Zukunft ...;  62 ... что он/она в будущем ...
-... dass sich ein solcher Vorfall nicht wiederholen darf. 63 ... что подобный случай не должен повториться.
+... dass sich ein solcher Vorfall nicht wiederholen darf.; 63 ... что подобный случай не должен повториться.
 Als Wiedergutmachung bieten wir Ihnen einen Rabatt in Höhe von 10% für Ihre nächste Bestellung an.;7 В качестве возмещения мы предлагаем Вам скидку в размере 10% для Вашего следующего заказа.
 Selbstverständlich übernehmen wir die Kosten dafür.;8 Разумеется, мы возьмём расходы за это на себя.
 Eine vergleichbare Situation wird sich nicht wiederholen.;9 Подобная ситуация не повторится.
 Mit freundlichen Grüßen;10 С дружескими приветствиями.
 Vorname Name;11 Имя Фамилия
 Allerdings möchte ich Sie darauf hinweisen, dass...;Однако я хотел бы обратить Ваше внимание на то, что...
-Bitte geben Sie uns Bescheid, ob Sie mit den zusätzlichen Kosten einverstanden sind.Пожалуйста, сообщите нам, согласны ли вы с дополнительными расходами.
+Bitte geben Sie uns Bescheid, ob Sie mit den zusätzlichen Kosten einverstanden sind.; Пожалуйста, сообщите нам, согласны ли вы с дополнительными расходами.
 Da diese Änderungen mit zusätzlichem Aufwand verbunden sind, berechnen wir dafür 20 Euro; Поскольку эти изменения связаны с дополнительными трудозатратами, мы взимаем за них 20 евро
 Wir werden Ihre Forderungen aus Ihrer E-Mail prüfen und uns anschließend bei Ihnen melden.; Мы проверим Ваши требования из Вашего электронного письма и после этого свяжемся с Вами
