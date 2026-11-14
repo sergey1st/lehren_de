@@ -12902,14 +12902,31 @@ z;10;a\r
   g = `⎵`,
   _ = (e) =>
     e
+      .replace(/^\uFEFF/, ``)
       .split(/\r?\n/)
-      .map((e) => {
-        let t = e.trim();
-        if (!t || !t.includes(`;`)) return null;
-        let n = t.indexOf(`;`),
-          r = t.slice(0, n).trim(),
-          i = t.slice(n + 1).trim();
-        return !r || !i ? null : { phrase: r, translation: i };
+      .map((e, t) => {
+        let n = e.trim();
+        if (!n || n.startsWith(`#`)) return null;
+        let r, i,
+          a = n.indexOf(`;`);
+        if (a >= 0) {
+          r = n.slice(0, a).trim();
+          i = n.slice(a + 1).trim();
+        } else {
+          let e = n.search(/[А-Яа-яЁёІіЇїЄєҐґ]/);
+          if (e < 0) {
+            console.warn(`[WriteCoach] Строка ${t + 1}: нет перевода`, n);
+            return null;
+          }
+          r = n.slice(0, e).trim().replace(/\s+\d+[a-z]?\s*(?:\.{3})?\s*$/i, ``);
+          i = n.slice(e).trim();
+        }
+        i = i.replace(/^\d+[a-z]?\s*(?:\.{3}\s*)?(?=[А-Яа-яЁёІіЇїЄєҐґ])/i, ``).trim();
+        if (!r || !i) {
+          console.warn(`[WriteCoach] Строка ${t + 1}: пустая фраза или перевод`, n);
+          return null;
+        }
+        return { phrase: r, translation: i };
       })
       .filter((e) => e !== null),
   v = d.split(/\r?\n/).reduce((e, t) => {
@@ -12973,6 +12990,7 @@ function ee() {
     [c, u] = (0, l.useState)(() => C(void 0, Array(m).fill(null))),
     [d, f] = (0, l.useState)(!1),
     [g, v] = (0, l.useState)(!1),
+    [j, k] = (0, l.useState)(``),
     b = (0, l.useRef)(0),
     x = (0, l.useRef)(void 0),
     S = e[i],
@@ -12985,19 +13003,22 @@ function ee() {
         : S.translation
       : n
         ? `Loading phrases...`
-        : `No phrases found`;
+        : j || `No phrases found`;
   ((0, l.useEffect)(() => {
     let e = !0;
     return (
       (async () => {
         try {
-          let n = await fetch(`/bde.txt`);
-          if (!n.ok) throw Error(`Failed to load /bde.txt: ${n.status}`);
+          let n = await fetch(`/bde.txt`, { cache: `no-store` });
+          if (!n.ok) throw Error(`HTTP ${n.status} (${n.url})`);
           let r = _(await n.text());
+          if (!r.length) throw Error(`В /bde.txt не найдены фразы`);
+          console.info(`[WriteCoach] Загружено фраз из ${n.url}: ${r.length}`);
           if (!e) return;
-          (t(r), a(0), s(``), u((e) => C(y(r[0]?.phrase ?? ``)[0], e)));
-        } catch {
-          e && t([]);
+          (k(``), t(r), a(0), s(``), u((e) => C(y(r[0]?.phrase ?? ``)[0], e)));
+        } catch (n) {
+          console.error(`[WriteCoach] Не удалось загрузить /bde.txt:`, n);
+          e && (t([]), k(`Ошибка загрузки bde.txt: ${n?.message ?? n}`));
         } finally {
           e && r(!1);
         }
