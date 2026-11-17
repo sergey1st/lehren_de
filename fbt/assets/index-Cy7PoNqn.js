@@ -12999,7 +12999,7 @@ function T() {
     return (
       (async () => {
         try {
-          let n = await fetch(`./../bde.txt`);
+          let n = await fetch(`./../fbt.txt`);
           if (!n.ok) throw Error(`Failed to load phrase.txt: ${n.status}`);
           let r = v(await n.text());
           if (!e) return;
